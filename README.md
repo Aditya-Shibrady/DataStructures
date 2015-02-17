@@ -1,6 +1,7 @@
 # DataStructures
 
 <b>1) Code for the following</b>
+
  a.  swap
         receives two index positions as parameters, and swaps the nodes at
         these positions, provided both positions are within the current size
@@ -25,9 +26,9 @@
         add code to the main method to demonstrate each of your methods
         
         
-  2) Stack demonstration of Push and Pop
+ <b> 2) Stack demonstration of Push and Pop</b>
   
-  3) Splay Tree with custom methods:
+ <b> 3) Splay Tree with custom methods: </b>
     A Bottom-Up Splay tree with:
     a) add
        Adds a node to the tree containing the passed integer value.  
