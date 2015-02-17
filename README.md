@@ -1,6 +1,6 @@
 # DataStructures
 
-1) Code for the following
+<b>1) Code for the following</b>
  a.  swap
         receives two index positions as parameters, and swaps the nodes at
         these positions, provided both positions are within the current size
